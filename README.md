@@ -1,13 +1,25 @@
-# DIO - Trilha .NET - Fundamentos
+**[Desafio concluido com sucesso]**
+
+As funções que faltavam no sistema de estacionamento foram implementadas com sucesso, o sistema pode ser usado através da linha de comando.
+
+È necessário compilar o código fonte e iniciar o arquivo para ter acesso ao menu do sistema.
+
+Requisitos: .Net 6.0.
+
+Obs: por enquanto o sistema não possui persistencia de dados, o que signica que após o reinicio do programa os dados serão reiniciados.
+
+# Detalhes sobre o desafio e a proposta do sistema
+
+## DIO - Trilha .NET - Fundamentos
 www.dio.me
 
-## Desafio de projeto
+### Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
 
-## Contexto
+### Contexto
 Você foi contratado para construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos.
 
-## Proposta
+### Proposta
 Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
 ![Diagrama de classe estacionamento](diagrama_classe_estacionamento.png)
 
